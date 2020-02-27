@@ -12,7 +12,7 @@ const devConfig = {
     devServer: { // 该字段用于配置webpack-dev-server
         contentBase: path.join(__dirname, '../demo'),
         compress: true,
-        port: 9000, // 端口9000
+        port: 8008, // 端口8008
         open: true // 自动打开浏览器
     },
     module: {

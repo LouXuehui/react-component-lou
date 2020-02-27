@@ -1,6 +1,6 @@
 {
   "name": "react-component-lou",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "react组件",
   "scripts": {
     "build": "set NODE_ENV=production && webpack --config ./config/webpack.config.prod.js",
